@@ -1,12 +1,3 @@
----
-title: "How to write a structured Text"
-author: "Sarah Thandi DIPPENAAR"
-output:
-  html_document:
-    toc: true
-    toc_float: true
-    toc_depth: 3
----
 
 # WRITING A GOOD TEXT
 
